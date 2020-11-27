@@ -1,0 +1,22 @@
+
+.info {
+    border: 1px solid #2a2f42;
+    border-radius: 10px;
+    line-height: 2.3;
+    padding: 20px 20px 20px 20px;
+}
+
+.title {
+    font-weight: 650;
+    color: rgba(216, 39, 39, 0.767);
+}
+
+.positive {
+    color: green;
+    font-weight: 700;
+}
+
+.negative {
+    color: red;
+    font-weight: 700;
+}
